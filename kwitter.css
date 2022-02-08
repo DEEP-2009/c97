@@ -1,0 +1,53 @@
+.header img{
+    width: 50px;
+    height: 50px;
+}
+#body
+{
+background-color:  #038cf5;
+}
+body
+{
+background-color:  #038cf5;
+}
+#login-div{
+    width: 30%;
+    text-align: center;
+    border-radius: 30px;
+    height: 300px;
+    margin-left: 35%;
+}
+#login_button{
+    width: 70%;
+    border-radius: 30px;
+    color: black;
+}
+#user_name{
+    width: 80%;
+    border-radius: 10px;
+}
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+#logout
+{
+	font-size: 20px; float: right;
+}
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}

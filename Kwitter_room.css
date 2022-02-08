@@ -1,0 +1,28 @@
+.header img{
+    width: 50px;
+    height: 50px;
+}
+#room_div{
+    width: 30%;
+    border-radius: 30px;
+    height: 300px;
+    margin-left: 35%;
+}
+body{
+background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+body h1{
+    text-align: center;
+}
+body h3{
+    text-align: center;
+}
+#logout{
+    margin-left: 80%;
+    border-radius: 10%;
+    width: 100px;
+    font-size: 150%;
+}
+#room_name{
+    width: 30%;
+}
